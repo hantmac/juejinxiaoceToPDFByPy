@@ -3,7 +3,7 @@
 ## 由来
 之前写过一个[Golang的版本](https://github.com/hantmac/juejinxiaoceToMobi)，但是阅读效果不是特别好，这个Python版本可以将所有章节制作成单个PDF文件。看起来会更加方便，转mobi格式的正在开发，遇到一点小问题，使用的`kindle_maker`库报错。如果想要在kindle上观看小册，可以使用[这个工具](https://pdf2mobi.com/zh/)将PDF转为mobi。
 ## 使用方法
-- 参照https://github.com/hantmac/juejinxiaoceToMobi的README，获取你想要转换的小册的`id`、`client_id`、`uid`、`token`、等信息，按照`ini`文件的格式填入`cinf.ini`；
+- 参照 https://github.com/hantmac/juejinxiaoceToMobi 的README，获取你想要转换的小册的`id`、`client_id`、`uid`、`token`、等信息，按照`ini`文件的格式填入`cinf.ini`；
 - pip3 install -r requirements.txt (环境为Python3)
 - python run.py 
 - 等待片刻，即可出炉 🍺
