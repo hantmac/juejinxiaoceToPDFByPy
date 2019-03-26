@@ -1,5 +1,9 @@
-![](https://img.shields.io/badge/language-python-green.svg)  
 
+<p align="center">
+<img src="https://img.shields.io/badge/language-python-green.svg">
+<img src="https://img.shields.io/badge/dependencies-pdfkit-yellow.svg">
+<img src="https://img.shields.io/badge/dependencies-requests-green.svg">
+</p>
 
 # juejinxiaoceToPDFByPy
 将掘金小册制作成一整本PDF
